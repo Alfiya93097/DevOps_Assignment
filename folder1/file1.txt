@@ -1,2 +1,2 @@
-"This is some content", "Conflicting content"
+"Conflicting content"
 "Additional content"
