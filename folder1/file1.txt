@@ -2,4 +2,5 @@
 "Conflicting content"
 "Additional content"
 "More Content",
-"Code to test pipeline"
+"Code to test pipeline",
+"Some text to test pipeline",
